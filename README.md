@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# School Helper 스쿨헬퍼
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![GitHub Pages](https://img.shields.io/badge/GitHubPages-181717.svg?logo=github)](https://av3lla.github.io/schoolhelper)
+![JavaScript](https://img.shields.io/badge/JavaScript-181717.svg?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-181717.svg?logo=html5)
+[![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.1.8-06B6D4.svg?logo=tailwindcss)](https://tailwindcss.com/)
+![GitHub repo size](https://img.shields.io/github/repo-size/av3lla/schoolhelper)
+[![GitHub](https://img.shields.io/github/license/av3lla/schoolhelper)](https://www.gnu.org/licenses/gpl-3.0.html)
 
-## Available Scripts
+### 학교 컴퓨터에서 자주 쓰이는 유틸리티들의 모음
 
-In the project directory, you can run:
+---
 
-### `npm start`
+* #### Features
+    * 랜덤으로 교실 자리 배치하기
+    * 랜덤 번호 뽑기
+    * ~~우리 학교 급식 보기~~
+    * ~~우리 반 시간표 보기~~
+    * ~~우리 학교 학사 일정 보기~~
+    * ~~우리 학교 앞 버스 도착시간 보기~~
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* #### Supported browsers
+    * Chrome
+    * Safari
+    * Edge
+    * FireFox
+    * Whale
+    * Opera
+    * ~~Internet Explorer~~
+  
+* #### Supported platforms
+    * Desktop
+    * Tablet
+    * ~~Mobile~~
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+### NOTE
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* 라이센스는 GPL-3.0이며 변경 혹은 삭제를 금합니다.
+* `npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch` 명령을 통해 TailwindCSS css자동 빌드를 설정 할 수 있습니다.
