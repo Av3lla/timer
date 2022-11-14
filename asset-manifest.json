@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/timer/static/css/main.8b118b24.css",
+    "main.js": "/timer/static/js/main.c0df8a0e.js",
+    "static/media/bassboosted-alarm.mp3": "/timer/static/media/bassboosted-alarm.0f69b1003f0750ad6d10.mp3",
+    "index.html": "/timer/index.html",
+    "main.8b118b24.css.map": "/timer/static/css/main.8b118b24.css.map",
+    "main.c0df8a0e.js.map": "/timer/static/js/main.c0df8a0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b118b24.css",
+    "static/js/main.c0df8a0e.js"
+  ]
+}
